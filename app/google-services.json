@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "204578490008",
+    "firebase_url": "https://androidcamila-5dfd3.firebaseio.com",
+    "project_id": "androidcamila-5dfd3",
+    "storage_bucket": "androidcamila-5dfd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204578490008:android:9d3bb8cc6a5fe61d",
+        "android_client_info": {
+          "package_name": "com.example.logonrm.androidcamila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204578490008-0q7v45dv06dh3pi3lqrj39r5m62ifhi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR4olsKWmHDTgGGPfsG5MnyJ1PXAbwF0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

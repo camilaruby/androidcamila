@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">androidcamila</string>
+    <string name="title_activity_principal">Home</string>
+    <string name="facebook_app_id" translatable="false">1471040302943715</string>
+
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cadastro_veiculos">Vehicle Register</string>
+
+    <string name="title_welcome">Welcome Mechanic Service!!!</string>
+
+    <string name="button_logar">LOGIN</string>
+    <string name="button_cadastrar_novo_usuario">REGISTER</string>
+    <string name="hint_confirma_senha">Confirm Password</string>
+    <string name="check_continuar_conectado">Keep Connected</string>
+    <string name="text_login_web_service">Login Web Service</string>
+    <string name="text_nova_conta_usuario">Create Accont Now</string>
+    <string name="text_testa_firebase">Test Key Firebase</string>
+    <string name="hint_senha">Password</string>
+
+    <string name="text_selecionar_servico">Select the mechanical service that fits your vehicle: </string>
+    <string name="check_troca_oleo">Oil Change </string>
+    <string name="check_carga_bateria"> Battery charge </string>
+    <string name="check_combustivel">Fuel </string>
+    <string name="check_troca_pneu">Tire Change </string>
+    <string name="text_servicos_mecanicos">SERVICES: </string>
+    <string name="button_enviar_servico">SEND SERVICE </string>
+    <string name="text_demo">DEMONSTRATION </string>
+
+    <string name="menu_cabecalho_nome">Mechanic Service</string>
+    <string name="menu_cabecalho_email">camila_c15@hotmail.com</string>
+    <string name="menu_cadastro_veiculo">Vehicle Registration</string>
+    <string name="menu_servicos">Services</string>
+    <string name="menu_sobre">About</string>
+    <string name="menu_compartilhar_conteudo">Share Image</string>
+    <string name="menu_onde_estamos">MAPS</string>
+    <string name="menu_sair">LOGOUT</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="txt_contato_mecanico">Contact the mechanic</string>
+    <string name="button_ligar_mecanico">CALL</string>
+    <string name="hint_number">Number</string>
+
+    <string name="txt_desenvolvido_por">DEVELOPED BY CAMILA</string>
+    <string name="txt_versao">VERSION ONE</string>
+
+    <string name="txt_titular">Onwer Vehicle</string>
+    <string name="txt_CPF">CPF</string>
+    <string name="txt_placa">Vehicle plate</string>
+    <string name="txt_cor">Color</string>
+    <string name="txt_modelo">Model</string>
+
+    <string name="txt_titular_add">Onwer Vehicle :</string>
+    <string name="txt_CPF_add">CPF :</string>
+    <string name="txt_placa_add">Vehicle plate :</string>
+    <string name="txt_cor_add">Color :</string>
+    <string name="txt_modelo_add">Model :</string>
+
+    <string name="mensagem_erro">Something went wrong. Check your input values</string>
+    <string name="mensagem_adicionar_novo_veiculo">EDIT</string>
+    <string name="mensagem_editar_veiculo">ADD NEW VEHICLE</string>
+
+
+    <string name="mensagem_cancelado">CANCEL</string>
+    <string name="mensagem_acao_cancelada">Task Cancelled</string>
+
+    <string name="button_download_imagem">DOWNLOAD IMAGE</string>
+
+
+</resources>

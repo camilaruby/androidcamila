@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.logonrm.androidcamila.Sobre"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:background="@drawable/gradiente_background">
+
+
+    <ImageView
+
+        android:id="@+id/imageView2"
+        android:layout_width="230dp"
+        android:layout_height="250dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="70dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:foregroundGravity="center"
+        android:src="@mipmap/ic_carro" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_desenvolvido_por"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_versao"
+        android:gravity="center"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_cabecalho_email"
+        android:gravity="center"/>
+</LinearLayout>
